@@ -1,1 +1,1 @@
-Here are the code I practiced for my foundation on C language.
+Here are the codes I practiced for my foundation on C language.
